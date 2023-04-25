@@ -1,6 +1,6 @@
 # Ansible role for secure docker instalation
 
-## Install requrements 
+## Install requirements 
 
 > python3 -m venv .venv
 
