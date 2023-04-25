@@ -1,0 +1,7 @@
+---
+- name: Converge
+  hosts: all
+  tasks:
+    - name: "Include zhagdevops.docker_role"
+      ansible.builtin.include_role:
+        name: "zhagdevops.docker_role"
