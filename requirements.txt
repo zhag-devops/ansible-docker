@@ -1,1 +1,3 @@
 ansible==7.4.0
+ansible-lint==6.15.0
+molecule==5.0.0
